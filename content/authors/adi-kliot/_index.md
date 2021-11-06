@@ -8,5 +8,5 @@ social:
     link: www.linkedin.com/in/adi-kliot
     icon_pack: fab
     icon: <i class="fab fa-linkedin"></i>
-superuser: false
+superuser: true
 ---
