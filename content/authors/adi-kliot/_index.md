@@ -1,7 +1,7 @@
 ---
 title: Adi Kliot
 role: "Mite-Plant interactions researcher "
-avatar_filename: avatar
+avatar_filename: berlin-2012.jpg
 social:
   - display:
       header: false
