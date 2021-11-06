@@ -5,5 +5,5 @@ avatar_filename: berlin-2012.jpg
 social: []
 superuser: true
 user_groups:
-  - researchers
+  - Researchers
 ---
