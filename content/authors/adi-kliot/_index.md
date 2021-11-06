@@ -7,6 +7,6 @@ social:
       header: false
     link: www.linkedin.com/in/adi-kliot
     icon_pack: fab
-    icon: <i class="fab fa-linkedin"></i>
+    icon: fa-linkedin
 superuser: true
 ---
